@@ -1,3 +1,5 @@
+# Exercise 002 - Comments
+
 # This lesson features comments! Wooooo
 puts "See? No comments visible. -_-";
 
