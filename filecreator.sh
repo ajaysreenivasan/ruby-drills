@@ -1,7 +1,7 @@
 #!/bin/bash
 # Create folders for these exercises (exercise###) and add a default ex###.rb file.
 
-for i in `seq 17 52`;
+for i in `seq 1 52`;
 do
     folder_name=exercise0$i
     file_name=ex0$i.rb
