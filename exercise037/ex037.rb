@@ -46,5 +46,3 @@
 # floats - zz
 # arrays - lists apparently
 # hashes - perks : e = {'x' => 1, 'y' => 2}
-
-
